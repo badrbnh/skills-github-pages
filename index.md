@@ -1,4 +1,36 @@
 ---
-title: Welcome to my blog
+title: Mashle Restaraunt
 ---
+
+## **Description**: 
+
+Mashle Reastaurant is a web based restaurant to simplify the food ordering and delivering for customers.
+
+## **Thechnologies used:**
+
+### **FrontEnd:**
+
+- React/Vite
+- Css
+- TypeScript
+
+### **Backend:**
+
+- Python/Django
+- Mysql
+- RESTful API
+- JWT
+- Azure
+
+## **Phases:**
+
+- [x] Designing the entity relational diagram
+- [x] Designing the class diagram
+- [x] Designing the API
+- [x] Finishing the backend
+- [x] Designing the frontend
+- [x] finishing the frontend
+- [x] Deploying to azure
+- [ ] Debug the errors
+
 
